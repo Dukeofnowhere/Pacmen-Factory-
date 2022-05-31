@@ -1,4 +1,4 @@
-#  Packmen Factory 
+#  Pacmen Factory 
 
 ## Description
 This is a fun JavaScript demonstration of generating physics animations and cycling through an array of images. While working through this activity I gained a deeper understanding of loops and logic statements.
