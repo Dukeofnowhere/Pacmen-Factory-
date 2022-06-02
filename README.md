@@ -1,6 +1,6 @@
 #  PacMan Factory 
 
-# link https://dukeofnowhere.github.io/Portfolio/Projects.html
+# link https://dukeofnowhere.github.io/Portfolio_/Projects.html
 ## Description
 The Pacman exercise is a fun and interactive javascript demostration of array manipulation. 
 ## How to Run
